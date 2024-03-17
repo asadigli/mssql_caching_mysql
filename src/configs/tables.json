@@ -1,0 +1,73 @@
+{
+    "local": {
+        "cached_history": "_prefix_cached_history",
+
+        "cached_product_brands": "_prefix_cached_product_brands",
+
+        "cached_product_parents": "_prefix_cached_product_parents",
+
+        "cached_product_price_types": "_prefix_cached_product_price_types",
+
+        "cached_product_prices": "_prefix_cached_product_prices",
+
+        "cached_product_quantities": "_prefix_cached_product_quantities",
+
+        "cached_products": "_prefix_cached_products",
+
+        "cached_customers": "_prefix_cached_customers",
+
+        "cached_sales": "_prefix_cached_sales",
+
+        "cached_sale_details": "_prefix_cached_sale_details",
+
+        "cached_employees": "_prefix_cached_employees",
+
+        "cached_currencies": "_prefix_cached_currencies"
+    },
+
+    "remote": {
+        "customers": "_Reference430",
+
+        "customers_secondary": "_Reference304",
+
+        "customer_details": "_Reference304_VT39822",
+
+        "customer_contracts": "_Reference182",
+
+        "system_users": "v8users",
+
+        "currencies": "_Reference68",
+
+        "products": "_Reference351",
+
+        "product_parents": "_Reference107",
+
+        "product_brands": "_Reference534",
+
+        "product_parents_subs": "_Reference107_VT34955",
+
+        "product_prices": "_InfoRg64358",
+
+        "product_price_types": "_Reference128",
+
+        "product_quantites": "_AccumRgT68353",
+
+        "sales": "_Document1163",
+
+        "sales_details": "_Document1163_VT26047",
+
+        "purchases": "_Document1132",
+
+        "purchases_details": "_Document1132_VT23624",
+
+        "departments": "_Reference778",
+
+        "companies": "_Reference379",
+
+        "employees": "_Reference479",
+
+        "sales_employees": "_Document883X1",
+
+        "customer_account": "_DocumentJournal33215"
+    }
+}

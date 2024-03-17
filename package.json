@@ -1,0 +1,23 @@
+{
+  "name": "caching-api",
+  "version": "1.0.0",
+  "description": "SQL connection",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "npx nodemon index.js",
+    "forever": "forever start index.js"
+  },
+  "author": "Azad Sadigli",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "md5": "^2.3.0",
+    "moment": "^2.29.4",
+    "mssql": "^9.0.1",
+    "mysql": "^2.18.1",
+    "winston": "^3.8.2"
+  }
+}
